@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pavmeetkour/pavmeetkour/main/github-photo.png" alt="Pavmeet Kour" width="100%" />
+</div>
+
+<div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> Hi, I'm Pavmeet Kour
 
